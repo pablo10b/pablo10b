@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pablo10b
 - 👀 I’m interested in Development & Networks.
-- 🌱 I’m currently learning WSL2 & computer networks.
+- 🌱 I’m currently learning WSL2 & FrontEnd.
 - 💞️ I’m looking to collaborate on network improvements.
 - 📫 How to reach me pablo10berdun@gmail.com
 
